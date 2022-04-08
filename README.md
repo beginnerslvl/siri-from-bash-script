@@ -2,7 +2,7 @@
 siri from bash script compatible with all linux devices
 
 
-
+# installation
 to run on kali linux "recomended"
 git clone https://github.com/beginnerslvl/siri-from-bash-script
 cd siri-from-bash-script
@@ -13,6 +13,8 @@ wget install git
 git clone https://github.com/beginnerslvl/siri-from-bash-script
 cd siri-from-bash-script
 bash ok.sh
+
+# add commands
 
 in order to add comands
 write on line 111
